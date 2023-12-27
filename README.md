@@ -2,5 +2,5 @@
 
 # A currency converter web app with api fetching!
 
-# ⭐️Support
-Give a ⭐️ if this project helped you!
+# ⭐️⭐️Support
+Give a ⭐️ if this project helped you!!
